@@ -1,0 +1,9 @@
+chromadb
+gpt4all
+langchain
+langchain_openai
+openai
+pdf2image
+pypdf
+pytesseract
+sentence_transformers
