@@ -1,4 +1,5 @@
 chromadb
+flask
 gpt4all
 langchain
 langchain_openai

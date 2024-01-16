@@ -1,7 +1,6 @@
 mode: PUBLIC # PUBLIC | LOCAL
-poppler: E:\\Hoang Thang\\install\\poppler-23.11.0\\Library\\bin
 document:
-  folder: E:\Hoang Thang\Hackathon 2024\LLMs\doc
+  folder: D:\note\Chatbot-Langchain\doc
 model:
   llm: 
     gpt4all:
@@ -16,5 +15,6 @@ model:
         davici: davinci-002
   embedding:
     sentence-transformers: sentence-transformers/all-MiniLM-L6-v2
+poppler: E:\\Hoang Thang\\install\\poppler-23.11.0\\Library\\bin
 openai:
   apikey: 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
