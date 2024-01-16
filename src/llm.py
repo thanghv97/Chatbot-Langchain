@@ -79,6 +79,7 @@ if __name__ == "__main__":
     print(f"===== file: {path}", end="")
     texts += loader(path)
     # images = convert_from_path(path, poppler_path = POPPLER_PATH)
+  print(f"{texts}")
 
   # embedding
   print(f"= INIT EMBEDDING MODEL: {config['model']['embedding']['sentence-transformers']}")

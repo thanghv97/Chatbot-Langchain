@@ -17,4 +17,4 @@ model:
     sentence-transformers: sentence-transformers/all-MiniLM-L6-v2
 poppler: E:\\Hoang Thang\\install\\poppler-23.11.0\\Library\\bin
 openai:
-  apikey: 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
+  apikey: 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
